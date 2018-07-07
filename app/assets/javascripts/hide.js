@@ -1,3 +1,3 @@
 function hideWhenClicked(){
-  hides function when clicked
+  var hide_this = ().hide
 }
