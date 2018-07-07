@@ -1,3 +1,4 @@
 function hideWhenClicked(){
-  var hide_this = ().hide
+const element = document.getElementById('hide_this')
+input.style.display = "none"
 }
